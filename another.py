@@ -1,0 +1,1 @@
+fav_artists = {"House": ["Keinemusik","Peggy Gou"]}
