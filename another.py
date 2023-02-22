@@ -1,1 +1,1 @@
-fav_artists = {"House": ["Keinemusik","Peggy Gou"]}
+fav_artists = {"House": ["Keinemusik","Peggy Gou","Jesper Ryom"]}
